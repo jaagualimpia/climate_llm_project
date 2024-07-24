@@ -1,0 +1,7 @@
+\venv
+\documents
+\__pycache__
+.pyc
+.env
+*.sqlite3
+*.pyc
